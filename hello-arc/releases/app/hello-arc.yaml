@@ -18,4 +18,4 @@ spec:
     replicaCount: 1
     env:
       name: MESSAGE
-      value: On-prem! 20230612:14:14
+      value: Skolavslutning 13 Juni!
