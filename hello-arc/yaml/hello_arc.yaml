@@ -34,4 +34,4 @@ spec:
         env:
         - name: MESSAGE
 <<<<<<< dev
-          value: Welcome to Azure Arc GitOps Demo E!
+          value: Welcome to Azure Arc GitOps Demo EL!
