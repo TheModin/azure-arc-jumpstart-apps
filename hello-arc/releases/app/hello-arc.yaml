@@ -18,4 +18,4 @@ spec:
     replicaCount: 1
     env:
       name: MESSAGE
-      value: Go gunners!!
+      value: Heja Gnaget!!
